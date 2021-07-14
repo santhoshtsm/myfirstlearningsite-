@@ -1,0 +1,11 @@
+.course {
+    background-color: #effffe;
+    padding: 50px 100px;
+}
+@media screen and (max-width:600px){
+    .course
+    {
+        padding: 140px 50px;
+    }
+    
+}
